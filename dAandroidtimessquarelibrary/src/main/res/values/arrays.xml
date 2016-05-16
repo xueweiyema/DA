@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="teams">
+        <item>一队</item>
+        <item>二队</item>
+        <item>三队</item>
+        <item>四队</item>
+        <item>五队</item>
+        <item>六队</item>
+        <item>七队</item>
+        <item>八队</item>
+    </string-array>
+    <string-array name="duties">
+        <item>未知</item> <!-- 0 -->
+        <item>休息</item> <!-- 1 -->
+        <item>通宵</item> <!-- 2 -->
+        <item>早班</item> <!-- 3 -->
+        <item>中班</item> <!-- 4 -->
+        <item>晚班</item> <!-- 5 -->
+        <item>早晚</item> <!-- 6 -->
+        <item>下通宵</item> <!-- 7 -->
+
+    </string-array>
+    <string-array name="stations">
+        <item>茂盛围</item>
+        <item>横琴</item>
+        <item>拱北</item>
+    </string-array>
+
+</resources>
