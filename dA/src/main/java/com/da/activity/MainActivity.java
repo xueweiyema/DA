@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity {
     private void getDAupdateServier(final Context context) {
         new Thread() {
             public void run() {
-                String url = "http://58.254.216.46/DA/index.php?s=/Home/Index/daandroidupdate";
+                String url = "http://58.254.216.46/index.php?s=/Home/Index/daandroidupdate";
                 Log.i(TAG, url);
                 try {
                     URL u = new URL(url);
