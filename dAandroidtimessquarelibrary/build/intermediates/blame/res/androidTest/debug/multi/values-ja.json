@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\excellent\\AndroidStudioProjects\\DA\\dAandroidtimessquarelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ja\\values-ja.xml",
+        "outputFile": "D:\\Excellent\\android\\MyApplication\\dAandroidtimessquarelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ja\\values-ja.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "E:\\excellent\\AndroidStudioProjects\\DA\\dAandroidtimessquarelibrary\\build\\intermediates\\bundles\\debug\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 65,
-                        "endOffset": 116
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\excellent\\AndroidStudioProjects\\MyApplication\\dAandroidtimessquarelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ja\\values-ja.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 65,
-                    "endOffset": 116
-                },
-                "from": {
-                    "file": "E:\\excellent\\AndroidStudioProjects\\MyApplication\\dAandroidtimessquarelibrary\\build\\intermediates\\bundles\\debug\\res\\values-ja\\values-ja.xml",
+                    "file": "D:\\Excellent\\android\\MyApplication\\dAandroidtimessquarelibrary\\build\\intermediates\\bundles\\debug\\res\\values-ja\\values-ja.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
