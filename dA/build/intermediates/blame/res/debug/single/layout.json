@@ -48,12 +48,12 @@
         "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
         "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -120,12 +120,12 @@
         "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\month.xml",
         "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\MyApplication\\dAandroidtimessquarelibrary\\unspecified\\res\\layout\\month.xml"
+    },
+    {
+        "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "D:\\Excellent\\android\\MyApplication\\dA\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",

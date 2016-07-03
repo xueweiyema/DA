@@ -184,6 +184,10 @@ public class MainActivity extends AppCompatActivity {
         final Calendar nextYear = Calendar.getInstance();
         nextYear.add(Calendar.YEAR, 1);
 
+        //test
+        calendar.getSelectedDate();
+
+
         final Calendar lastYear = Calendar.getInstance();
         lastYear.add(Calendar.YEAR, -1);
         calendar.init(lastYear.getTime(), nextYear.getTime()) //
